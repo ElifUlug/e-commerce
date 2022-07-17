@@ -1,1 +1,1 @@
-https://elifulug-e-commerce.vercel.app/products 
+https://elifulug-e-commerce.vercel.app/
